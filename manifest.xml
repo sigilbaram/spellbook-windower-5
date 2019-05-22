@@ -1,0 +1,10 @@
+<package>
+    <name>spellbook</name>
+    <version>1.0</version>
+    <type>addon</type>
+    <dependencies>
+        <dependency>player</dependency>
+        <dependency>resources</dependency>
+        <dependency>spells_known</dependency>
+    </dependencies>
+</package>
